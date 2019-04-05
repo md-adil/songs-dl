@@ -1,0 +1,6 @@
+/node_modules
+/ignore
+/test.js
+/downloadings
+/.env
+/yarn-error.log
